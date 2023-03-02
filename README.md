@@ -2,6 +2,8 @@
  
 Este projeto se refere à versão web de um documento denominado Visão Vivida, do Natural English Institute. 
 
+Consulte a versao em ingles <a href="#"> AQUI </a>
+
 ## ✏ Como editar o conteúdo?
 
 Apenas a porção textual do projeto pode ser editada, e isso pode ocorrer de duas maneiras:
